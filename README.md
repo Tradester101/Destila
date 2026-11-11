@@ -1,5 +1,10 @@
 # Destila
 
+> 📦 **Proyecto archivado.** Destila se unió a **Markdown101**, que ya hacía lo
+> principal (idea → brief en Markdown → prompt optimizado según el modelo destino).
+> Las piezas de seguridad y límites de este repo se trasladaron allí. Este
+> repositorio queda como registro del día 1 del reto y no recibe más cambios.
+
 **De la idea cruda al prompt puro.**
 
 Destila es una app web donde vuelcas una idea tal cual la tienes en la cabeza,
